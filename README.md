@@ -1,4 +1,4 @@
-Deploy application in monolithic and microservices architecture.
+Deploy application in monolithic and microservices architecture. 
 
 1).Deploying WordPress and MySQL in a Monolithic Architecture on AWS:-
 
